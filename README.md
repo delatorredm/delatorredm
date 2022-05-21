@@ -1,4 +1,4 @@
-- geography PhD student @ [University of Auckland](https://profiles.auckland.ac.nz/d-delatorre)
+- geography PhD candidate @ [University of Auckland](https://profiles.auckland.ac.nz/d-delatorre)
 - research: 🌾🌏🛰🗺 Digital Agriculture | Remote Sensing | Climate Change | Crop Modelling | Google Earth Engine
 - twitter: [@DanOfTheTower](https://twitter.com/DanOfTheTower)
 - researchgate: [Profile Link](https://www.researchgate.net/profile/Daniel-Marc-Dela-Torre)
