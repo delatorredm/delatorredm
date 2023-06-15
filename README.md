@@ -1,5 +1,5 @@
 - current position: Geospatial Lead @ [Reveal](https://reveal.nz) - building underground utilities digital twins! 
-- geography PhD candidate @ University of Auckland, New Zealand
+- geography PhD @ University of Auckland, New Zealand
 - research: 🌾🌏🛰🗺 Digital Agriculture | Remote Sensing | Climate Change | Crop Modelling | Google Earth Engine
 - twitter: [@DanOfTheTower](https://twitter.com/DanOfTheTower)
 - researchgate: [Profile Link](https://www.researchgate.net/profile/Daniel-Marc-Dela-Torre)
