@@ -1,4 +1,4 @@
-- current position: Geospatial Lead @ Reveal - building underground utilities digital twins! (https://reveal.nz)
+- current position: Geospatial Lead @ [Reveal](https://reveal.nz) - building underground utilities digital twins! 
 - geography PhD candidate @ University of Auckland, New Zealand
 - research: 🌾🌏🛰🗺 Digital Agriculture | Remote Sensing | Climate Change | Crop Modelling | Google Earth Engine
 - twitter: [@DanOfTheTower](https://twitter.com/DanOfTheTower)
