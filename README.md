@@ -1,4 +1,4 @@
-- current position: Geospatial Lead @ [Reveal](https://reveal.nz) - building underground utilities digital twins! 
+- current position: Science and Data Lead @ [SERVIR Southeast Asia](https://servir.adpc.net/) & [Spatial Informatics Group](https://sig-gis.com)
 - geography PhD @ University of Auckland, New Zealand
 - research: 🌾🌏🛰🗺 Digital Agriculture | Remote Sensing | Climate Change | Crop Modelling | Google Earth Engine
 - twitter: [@DanOfTheTower](https://twitter.com/DanOfTheTower)
