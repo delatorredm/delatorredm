@@ -1,4 +1,5 @@
-- current position: Science and Data Lead @ [SERVIR Southeast Asia](https://servir.adpc.net/) & [Spatial Informatics Group](https://sig-gis.com)
+- current position: Science and Data Lead / Project Manager @ [Spatial Informatics Group](https://sig-gis.com)
+- 📍Bangkok, Thailand
 - geography PhD @ University of Auckland, New Zealand
 - research: 🌾🌏🛰🗺 Digital Agriculture | Remote Sensing | Climate Change | Crop Modelling | Google Earth Engine
 - researchgate: [Profile Link](https://www.researchgate.net/profile/Daniel-Marc-Dela-Torre)
